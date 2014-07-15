@@ -100,6 +100,7 @@ Translations of the guide are available in the following languages:
 > -- Jerry Coffin (on indentation)
 
 * <a name="utf-8"></a> Use `UTF-8` as the source file encoding.
+
 * <a name="spaces-indentation"></a> Use two **spaces** per indentation level (aka soft tabs). No hard tabs.
 
   ```Ruby
