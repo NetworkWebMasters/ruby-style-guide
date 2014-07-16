@@ -99,7 +99,7 @@ Translations of the guide are available in the following languages:
 > probably right... <br/>
 > -- Jerry Coffin (on indentation)
 
-* <a name="utf-8"></a> Use `UTF-8` as the source file encoding.
+<a name="utf-8">&bull;</a> Use `UTF-8` as the source file encoding.
 
 * <a name="spaces-indentation"></a> Use two **spaces** per indentation level (aka soft tabs). No hard tabs.
 
