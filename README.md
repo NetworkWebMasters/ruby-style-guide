@@ -99,9 +99,13 @@ Translations of the guide are available in the following languages:
 > probably right... <br/>
 > -- Jerry Coffin (on indentation)
 
-* <a name="utf-8"></a> Use `UTF-8` as the source file encoding.
+* <a name="utf-8"></a>
+  Use `UTF-8` as the source file encoding.
+  <sup>[[link](#utf-8)]</sup>
 
-* <a name="spaces-indentation"></a> Use two **spaces** per indentation level (aka soft tabs). No hard tabs.
+* <a name="spaces-indentation"></a>
+  Use two **spaces** per indentation level (aka soft tabs). No hard tabs.
+  <sup>[[link](#spaces-indentation)]</sup>
 
   ```Ruby
   # bad - four spaces
@@ -115,8 +119,10 @@ Translations of the guide are available in the following languages:
   end
   ```
 
-* <a name="crlf"></a> Use Unix-style line endings. (*BSD/Solaris/Linux/OS X users are covered by default,
+* <a name="crlf"></a>
+  Use Unix-style line endings. (*BSD/Solaris/Linux/OS X users are covered by default,
   Windows users have to be extra careful.)
+  <sup>[[link](#crlf)]</sup>
   * If you're using Git you might want to add the following
     configuration setting to protect your project from Windows line
     endings creeping in:
