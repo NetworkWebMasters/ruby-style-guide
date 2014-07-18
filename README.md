@@ -1375,10 +1375,10 @@ Translations of the guide are available in the following languages:
   use parentheses in the method invocation. For example, write `f((3 + 2) + 1)`.
 <sup>[[link](#parens-as-args)]</sup>
 
-* <a name="always-warn"></a>
+* <a name="always-warn-at-runtime"></a>
   Always run the Ruby interpreter with the `-w` option so it will warn you if
   you forget either of the rules above!
-<sup>[[link](#always-warn)]</sup>
+<sup>[[link](#always-warn-at-runtime)]</sup>
 
 * <a name="lambda-multi-line"></a>
   Use the new lambda literal syntax for single line body blocks. Use the
@@ -3126,11 +3126,11 @@ Translations of the guide are available in the following languages:
 
 ## Percent Literals
 
-* <a name="percent-q"></a>
+* <a name="percent-q-shorthand"></a>
   Use `%()`(it's a shorthand for `%Q`) for single-line strings which require
   both interpolation and embedded double-quotes. For multi-line strings, prefer
   heredocs.
-<sup>[[link](#percent-q)]</sup>
+<sup>[[link](#percent-q-shorthand)]</sup>
 
   ```Ruby
   # bad (no interpolation needed)
